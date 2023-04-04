@@ -1,6 +1,6 @@
 # Hello, I'm 0x35c! 👋
 
-I'm a software developer currently working at 42 school. I enjoy coding and problem-solving, and I'm passionate about creating clean, efficient code that works well. 
+I'm a software developer currently studying at 42 school. I enjoy coding and problem-solving, and I'm passionate about creating clean, efficient code that works well. 
 
 ## 🔭 Current Projects
 
