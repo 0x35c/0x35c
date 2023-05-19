@@ -4,7 +4,7 @@ I'm a software developer currently studying at 42 school. I enjoy coding and pro
 
 ## 🔭 Current Projects
 
-- [cub3d](https://github.com/Armandase/cub3D/): mini game using raycasting rendering technique
+- [webserv](https://github.com/0x35c/webserv-42/): webserver using select() syscall in C++98 for my 42 common core
 - [cpp-modules](https://github.com/0x35c/cpp-42): cpp modules for my 42 common core
 
 ## 🌱 What I'm Learning
