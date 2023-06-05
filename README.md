@@ -15,8 +15,8 @@ I'm constantly working to improve my skills and knowledge as a software develope
 
 You can find me on Discord: 0x35c#4154.
 
-## 📈 GitHub Stats
+## 📈 42 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0x35c&show_icons=true&theme=radical)
+[![ulayus's 42 stats](https://badge42.vercel.app/api/v2/clfzy2qp5000608mpqhg8wuw1/stats?cursusId=21&coalitionId=219)](https://github.com/JaeSeoKim/badge42)
 
 Thanks for stopping by!
