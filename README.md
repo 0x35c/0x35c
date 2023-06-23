@@ -4,7 +4,7 @@ I'm a software developer currently studying at 42 school. I enjoy coding and pro
 
 ## 🔭 Current Projects
 
-- [webserv](https://github.com/0x35c/inception-42): Web setup using docker containers and building images from scratch with alpine
+- [inception](https://github.com/0x35c/inception-42): Web setup using docker containers and building images from scratch with alpine
 - [cpp-modules](https://github.com/0x35c/cpp-42): cpp modules for my 42 common core
 
 ## 🌱 What I'm Learning
