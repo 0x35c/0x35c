@@ -16,6 +16,6 @@ You can find me on Discord: 0x35c
 
 ## 📈 42 Stats
 
-[![ulayus's 42 stats](https://badge42.vercel.app/api/v2/clfzy2qp5000608mpqhg8wuw1/stats?cursusId=21&coalitionId=219)](https://github.com/JaeSeoKim/badge42)
+[![ulayus's 42 stats](https://badge.mediaplus.ma/water/ulayus?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 Thanks for stopping by!
