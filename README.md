@@ -4,7 +4,8 @@ I'm a software developer currently studying at 42 school. I enjoy coding and pro
 
 ## 🔭 Current Projects
 
-- [Internship](https://broodminder.com/): I'm currently doing an internship in Broodminder Europe.
+- [malloc](https://github.com/0x35c/malloc-42): my 42 outtercore own implementation of malloc using mmap
+- [libasm](https://github.com/0x35c/libasm-42): simple libc functions implementation in ASM 64 (intel syntax)
 
 ## 🌱 What I'm Learning
 
