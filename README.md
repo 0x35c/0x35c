@@ -4,7 +4,7 @@ I'm a software developer currently studying at 42 school. I enjoy coding and pro
 
 ## 🔭 Current Projects
 
-- [mal](https://github.com/0x35c/mal): make-a-lisp (cf [here](https://github.com/kanaka/mal)) using c++20 and with a simpler project structure (no stepX and test files)
+- [kfs](https://git.chauvet.pro/starnakin/42_KFS): recreating a fully functionnal kernel from scratch (42 outtercore project)
 
 ## 🌱 What I'm Learning
 
