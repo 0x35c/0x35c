@@ -13,5 +13,6 @@ I'm constantly working to improve my skills and knowledge as a software develope
 ## 💬 Let's Connect
 
 You can find me on Discord: 0x35c
+</br>
 
 Thanks for stopping by!
