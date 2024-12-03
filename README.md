@@ -14,8 +14,4 @@ I'm constantly working to improve my skills and knowledge as a software develope
 
 You can find me on Discord: 0x35c
 
-## 📈 42 Stats
-
-[![ulayus's 42 stats](https://badge.mediaplus.ma/water/ulayus?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 Thanks for stopping by!
