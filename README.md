@@ -4,7 +4,7 @@ I'm a software developer currently studying at 42 school. I enjoy coding and pro
 
 ## 🔭 Current Projects
 
-- [kfs](https://git.chauvet.pro/starnakin/42_KFS): recreating a fully functionnal kernel from scratch (42 outtercore project)
+- [kfs](https://codeberg.org/0x35c/kfs-42): recreating a fully functionnal kernel from scratch (42 outtercore project)
 
 ## 🌱 What I'm Learning
 
